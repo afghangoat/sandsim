@@ -1,0 +1,30 @@
+#ifndef TREFS_HPP
+#define TREFS_HPP
+
+#include "materials/Acid.hpp"
+#include "materials/Air.hpp"
+#include "materials/Algae.hpp"
+#include "materials/Ash.hpp"
+#include "materials/Bamboo.hpp"
+#include "materials/Coal.hpp"
+#include "materials/Copper.hpp"
+#include "materials/Dirt.hpp"
+#include "materials/Fire.hpp"
+#include "materials/Glue.hpp"
+#include "materials/Gravel.hpp"
+#include "materials/Lava.hpp"
+#include "materials/Leaves.hpp"
+#include "materials/Oil.hpp"
+#include "materials/Petal.hpp"
+#include "materials/Plant.hpp"
+#include "materials/Rock.hpp"
+#include "materials/Sand.hpp"
+#include "materials/Sapling.hpp"
+#include "materials/Seed.hpp"
+#include "materials/Smoke.hpp"
+#include "materials/Steam.hpp"
+#include "materials/Tnt.hpp"
+#include "materials/Water.hpp"
+#include "materials/Wood.hpp"
+
+#endif
